@@ -1,0 +1,13 @@
+diff --git a/test/license.txt b/test/license.txt
+index be028ab..7967ddd 100644
+--- a/test/license.txt
++++ b/test/license.txt
+@@ -7,4 +7,5 @@ this is test file for checking the stash command
+  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+  Everyone is permitted to copy and distribute verbatim copies
+- of this license document, but changing it is not allowed.
+\ No newline at end of file
++ of this license document, but changing it is not allowed.
++New one
+\ No newline at end of file
